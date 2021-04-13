@@ -1,0 +1,25 @@
+{
+    "data": {
+      "environment": "AzureCloud",
+      "scopeLevel": "Subscription",
+      "subscriptionId": "" ,
+      "subscriptionName": "",
+      "creationMode": "Manual"
+    },
+    "description": "",
+    "id": "",
+    "name": "",
+    "type": "azurerm",
+    "url": "https://management.azure.com/",
+    "authorization": {
+      "parameters": {
+        "ServicePrincipalId":  "",
+        "authenticationType": "spnKey",
+        "ServicePrincipalKey":   "",
+        "tenantid":  ""
+      },
+      "scheme": "ServicePrincipal"
+    },
+    "isShared": false,
+    "isReady": true
+  }

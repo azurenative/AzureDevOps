@@ -1,0 +1,25 @@
+{
+    "data": {
+      "environment": "",
+      "scopeLevel": "",
+      "subscriptionId": "" ,
+      "subscriptionName": "",
+      "creationMode": ""
+    },
+    "description": "",
+    "id": "",
+    "name": "",
+    "type": "",
+    "url": "",
+    "authorization": {
+      "parameters": {
+        "ServicePrincipalId":  "",
+        "authenticationType": "",
+        "ServicePrincipalKey":   "",
+        "tenantid":  ""
+      },
+      "scheme": ""
+    },
+    "isShared": false,
+    "isReady": true
+  }
